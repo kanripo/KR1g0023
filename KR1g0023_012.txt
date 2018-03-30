@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 十三經義疑
-#+DATE: 2018-03-28 13:09:38.023553
+#+DATE: 2018-03-30 13:56:37.018259
 #+PROPERTY: ID KR1g0023
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
@@ -19,8 +19,8 @@
 ¶
 丘背有丘謂負丘¶
 ¶
-<pb:KR1g0023_WYG_012-1b>¶
 註此觧宛丘中央隆髙狀如負一丘於背上按此觧宛¶
+<pb:KR1g0023_WYG_012-1b>¶
 丘八字當移置丘上有丘為宛丘之下若負丘則丘形¶
 前後重叠非中央隆髙也¶
 ¶
